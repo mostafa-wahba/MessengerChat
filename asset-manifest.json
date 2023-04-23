@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MessengerChat/static/css/main.cce6139c.css",
+    "main.js": "/MessengerChat/static/js/main.4587f278.js",
+    "static/js/787.85c60813.chunk.js": "/MessengerChat/static/js/787.85c60813.chunk.js",
+    "static/media/—Pngtree—vector video camera icon_3787761.png": "/MessengerChat/static/media/—Pngtree—vector video camera icon_3787761.a5b9f7f08bac79a0a365.png",
+    "static/media/add-image-512.png": "/MessengerChat/static/media/add-image-512.3277748d466db76a3615.png",
+    "static/media/user-avatar-svgrepo-com.svg": "/MessengerChat/static/media/user-avatar-svgrepo-com.7a2b7c14e01c31492c63b1401a02be50.svg",
+    "index.html": "/MessengerChat/index.html",
+    "main.cce6139c.css.map": "/MessengerChat/static/css/main.cce6139c.css.map",
+    "main.4587f278.js.map": "/MessengerChat/static/js/main.4587f278.js.map",
+    "787.85c60813.chunk.js.map": "/MessengerChat/static/js/787.85c60813.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce6139c.css",
+    "static/js/main.4587f278.js"
+  ]
+}
